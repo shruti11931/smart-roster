@@ -2,7 +2,7 @@
 
 A roster tool for an operations team that supports many D2C brands. It generates the monthly roster, checks that every brand and process is covered, flags what needs attention, and re-solves only the affected week when something changes.
 
-**Live app:** _add your Vercel URL_ · **Demo video:** _add link_ · **Approach note:** [docs/approach-note.md](docs/approach-note.md)
+**Live app:** https://smart-roster-iota.vercel.app/ · **Demo video:** _add link_ · **Approach note:** [docs/approach-note.md](docs/approach-note.md)
 
 Built for the Datastraw tech internship assignment. 34 sample employees, 4 pods, 24 brands, 42 processes.
 
